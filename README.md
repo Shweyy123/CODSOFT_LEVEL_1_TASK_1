@@ -24,11 +24,11 @@ To view the landing page:
 1. Clone this repository to your local machine.
 2. Open `index.html` in your web browser.
 
-Alternatively, you can view the live demo [here]([link_to_demo](http://127.0.0.1:5500/index.html)).
+Alternatively, you can view the live demo [here]((http://127.0.0.1:5500/index.html)).
 
 
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or create a pull request.
 
-e for details.
+
